@@ -1,2 +1,2 @@
 This is a test for my git training.
-Version 1
+Version 2
